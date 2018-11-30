@@ -1,2 +1,7 @@
-# backend-web-development
-Ολες οι απαραιτητες πληροφορίες για το "Πως να φτιαξεις μια backend εφαρμογη".
+# Backend Web Development
+
+**Διάλεξη από:**
+Αποστόλης Αναστασίου
+
+**email:**
+apostolis.anastasiou.alpha@gmail.com
